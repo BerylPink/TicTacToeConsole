@@ -1,0 +1,13 @@
+C:\Users\timia\source\repos\TicTacToeConsole\TicTacToeConsole\bin\Debug\netcoreapp3.1\TicTacToeConsole.exe
+C:\Users\timia\source\repos\TicTacToeConsole\TicTacToeConsole\bin\Debug\netcoreapp3.1\TicTacToeConsole.deps.json
+C:\Users\timia\source\repos\TicTacToeConsole\TicTacToeConsole\bin\Debug\netcoreapp3.1\TicTacToeConsole.runtimeconfig.json
+C:\Users\timia\source\repos\TicTacToeConsole\TicTacToeConsole\bin\Debug\netcoreapp3.1\TicTacToeConsole.runtimeconfig.dev.json
+C:\Users\timia\source\repos\TicTacToeConsole\TicTacToeConsole\bin\Debug\netcoreapp3.1\TicTacToeConsole.dll
+C:\Users\timia\source\repos\TicTacToeConsole\TicTacToeConsole\bin\Debug\netcoreapp3.1\TicTacToeConsole.pdb
+C:\Users\timia\source\repos\TicTacToeConsole\TicTacToeConsole\obj\Debug\netcoreapp3.1\TicTacToeConsole.csprojAssemblyReference.cache
+C:\Users\timia\source\repos\TicTacToeConsole\TicTacToeConsole\obj\Debug\netcoreapp3.1\TicTacToeConsole.AssemblyInfoInputs.cache
+C:\Users\timia\source\repos\TicTacToeConsole\TicTacToeConsole\obj\Debug\netcoreapp3.1\TicTacToeConsole.AssemblyInfo.cs
+C:\Users\timia\source\repos\TicTacToeConsole\TicTacToeConsole\obj\Debug\netcoreapp3.1\TicTacToeConsole.csproj.CoreCompileInputs.cache
+C:\Users\timia\source\repos\TicTacToeConsole\TicTacToeConsole\obj\Debug\netcoreapp3.1\TicTacToeConsole.dll
+C:\Users\timia\source\repos\TicTacToeConsole\TicTacToeConsole\obj\Debug\netcoreapp3.1\TicTacToeConsole.pdb
+C:\Users\timia\source\repos\TicTacToeConsole\TicTacToeConsole\obj\Debug\netcoreapp3.1\TicTacToeConsole.genruntimeconfig.cache
